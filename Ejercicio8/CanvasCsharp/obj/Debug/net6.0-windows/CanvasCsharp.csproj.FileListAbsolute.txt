@@ -1,0 +1,17 @@
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\obj\Debug\net6.0-windows\CanvasCsharp.csproj.AssemblyReference.cache
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\obj\Debug\net6.0-windows\CanvasCsharp.Form1.resources
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\obj\Debug\net6.0-windows\CanvasCsharp.csproj.GenerateResource.cache
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\obj\Debug\net6.0-windows\CanvasCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\obj\Debug\net6.0-windows\CanvasCsharp.AssemblyInfoInputs.cache
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\obj\Debug\net6.0-windows\CanvasCsharp.AssemblyInfo.cs
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\obj\Debug\net6.0-windows\CanvasCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\bin\Debug\net6.0-windows\CanvasCsharp.exe
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\bin\Debug\net6.0-windows\CanvasCsharp.deps.json
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\bin\Debug\net6.0-windows\CanvasCsharp.runtimeconfig.json
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\bin\Debug\net6.0-windows\CanvasCsharp.dll
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\bin\Debug\net6.0-windows\ref\CanvasCsharp.dll
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\bin\Debug\net6.0-windows\CanvasCsharp.pdb
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\obj\Debug\net6.0-windows\CanvasCsharp.dll
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\obj\Debug\net6.0-windows\ref\CanvasCsharp.dll
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\obj\Debug\net6.0-windows\CanvasCsharp.pdb
+C:\Users\Pablo Che\source\repos\CanvasCsharp\CanvasCsharp\obj\Debug\net6.0-windows\CanvasCsharp.genruntimeconfig.cache
