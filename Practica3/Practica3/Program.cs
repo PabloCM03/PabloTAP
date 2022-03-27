@@ -1,16 +1,24 @@
+﻿using HtmlAgilityPack;
+using ScrapySharp.Extensions;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Windows.Forms;
+using HtmlDocument = HtmlAgilityPack.HtmlDocument;
+
 namespace Practica3
 {
     internal static class Program
     {
         /// <summary>
-        ///  The main entry point for the application.
+        /// Punto de entrada principal para la aplicación.
         /// </summary>
         [STAThread]
-        static void Main()
+        static void Main(String[] Arg)
         {
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
-            ApplicationConfiguration.Initialize();
+
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
     }
