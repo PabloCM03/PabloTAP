@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica5.formLogin">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Login ITESCAM" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Bienvenido" HorizontalTextAlignment="Center" FontSize="Title" Padding="30,10,30,10"/>
+
+        <Label Text="Matricula" Padding="30,0,0,0" TextColor="Black" FontSize="18"/>
+        <Entry x:Name="cajaUsuario" Margin="30,0,30,0"/>
+        <Label Text="Contraseña" Padding="30,0,0,0" TextColor="Black" FontSize="18"/>
+        <Entry x:Name="cajaContraseña" IsPassword="True" Margin="30,0,30,0" />
+
+        <Button Clicked="validar_Usuario" Text="Iniciar sesión" CornerRadius="23" Margin="40,50,40,0" BackgroundColor="GreenYellow"/>
+
+    </StackLayout>
+</ContentPage>

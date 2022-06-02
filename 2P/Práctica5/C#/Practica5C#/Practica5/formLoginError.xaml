@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica5.formLoginError">
+    <StackLayout>
+        <Frame BackgroundColor="Red" Padding="24" CornerRadius="0">
+            <Label Text="Error" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Los datos son incorrectos, intenta de nuevo :(" HorizontalTextAlignment="Center" FontSize="Title" Padding="30,10,30,10"/>
+
+
+    </StackLayout>
+</ContentPage>

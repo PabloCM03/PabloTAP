@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">practica6</string>
+    <string name="menu_start_1p">1 jugador</string>
+    <string name="menu_start_2p">2 jugadores</string>
+    <string name="menu_start_0p">Demostración</string>
+    <string name="menu_pause">Pausa</string>
+    <string name="menu_resume">Play</string>
+    <string name="menu_sound">Sonido</string>
+
+</resources>
